@@ -1,1 +1,1 @@
-We worked on CCSD files.
+We worked on CCSD data.
