@@ -14,3 +14,7 @@ serialization.save("c:/santonin.mol", "mol"); // for JSmol
 serialization.save("c:/santonin_molecule.json", "JSON Molecule (*.json)") // for the J-graph
 serialization.save("c:/santonin_spectrum.json", "JSON NMR (*.json)") // for the spectrum
 </code></pre>
+
+Related page
+
+Demonstration of [using Mnova json files](./mnova-reader.md).
