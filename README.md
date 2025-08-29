@@ -13,23 +13,24 @@ We attended [NMR conferences and PANACEA meetings](./conferences.md) to set the 
 
 # List of deliveries
 
-|Application|Demonstration example|
+|Application|link|
 |--------|---|
-|[NMR spectra visualization](https://github.com/CHEMeDATA/NMRspectrum-viewer) | GITPAGE |
-|[Mnova json reader](https://github.com/CHEMeDATA/MnovaJson-reader) | GITPAGE |
-|[Schema](https://github.com/CHEMeDATA/schema) generation| GITPAGE |
-|Peak lists | GITPAGE |
-|CCSD_FILES | GITPAGE |
-|Graphics associated to NMR spectra (J-graph) | GITPAGE |
-|Graphics associated to NMR spectra (J-graph) | GITPAGE |
+|[NMR spectra visualization](./nmr-viewer.md) |<https://chemedata.github.io/panacea/nmr-viewer.html>|  
+|[Mnova json reader](./mnova-reader.md)|<https://chemedata.github.io/panacea/mnova-reader.html> |  
+|[Mnova json writer](./mnova-writer.md)|<https://chemedata.github.io/panacea/mnova-writer.html> |  
+|[Schema developmenet of solid-states NMR](./schema.md)|<https://chemedata.github.io/panacea/schema.html>|  
+|[Peak lists](./peaklist.md) |<https://chemedata.github.io/panacea/pealist.html> |  
+|[CCSD files](./ccsd.md) |<https://chemedata.github.io/panacea/ccsd.html> |  
+
+**Important note**: The links of the table are stable. Even if future work involve changes, the links of this list point to locations that are fixed while the target pages will be updated as needed.
 
 # Posters and presentations
 
-[Euromar 2025 ](./doc/Panacea2025posterNoBird.pdf) 
-[Euromar 2024 ](./doc/JeanneratPosterEuromarPanaceaJune2024.pdf) 
-[Euromar 2023 ](Link-to-poster1) 
-[Florence poster](Link-to-posterFlorence) 
-[Florence presentation](Link-to-posterFlorence) 
+[Euromar 2025](./doc/Panacea2025posterNoBird.pdf)
+[Euromar 2024](./doc/JeanneratPosterEuromarPanaceaJune2024.pdf)
+[Euromar 2023](Link-to-poster1)
+[Florence poster](Link-to-posterFlorence)
+[Florence presentation](Link-to-posterFlorence)
 
 # Papers
 
@@ -39,8 +40,8 @@ We attended [NMR conferences and PANACEA meetings](./conferences.md) to set the 
 
 Damien Jeannerat thanks Jean-Marc Nuzillard for many years of stimulating discussions, Bob Hanson and other members of the IUPAC working group for the Development of a Standard for FAIR Data Management of Spectroscopic Data, members of NFDI4CHEM, Stefan Kuhn, Luc Patiny, Julien Wist and other contributors to the NMReDATA initiative and Pierre-Yves Burgi, Hugues Cazeaux, Mathieu Vonlanthen, Lamia Friha and their colleagues at the eResearch of the University of Geneva, for creating the conditions for this project to arise. We also thank Yair Rodríguez de la Peña for his contribution during his internship at Mestrelab.
 
-We thank the Mestrelab team, and scientific, administrative and technical team of PANACEA. 
+We thank the Mestrelab team, and scientific, administrative and technical team of PANACEA.
 
 # Funding
 
-This project has received funding from the European Union’s Horizon 2020 research and innovation program PANACEA under grant agreement No. 101008500. 
+This project has received funding from the European Union’s Horizon 2020 research and innovation program PANACEA under grant agreement No. 101008500.

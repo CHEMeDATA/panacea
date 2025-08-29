@@ -1,0 +1,1 @@
+The main repository of visualization of NMR spectra is [https://github.com/CHEMeDATA/NMRspectrum-viewer](https://github.com/CHEMeDATA/NMRspectrum-viewer)
