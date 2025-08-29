@@ -19,18 +19,18 @@ We attended [NMR conferences and PANACEA meetings](./conferences.md) to set the 
 |[Mnova json reader](./mnova-reader.md)|<https://chemedata.github.io/panacea/mnova-reader.html> |  
 |[Mnova json writer](./mnova-writer.md)|<https://chemedata.github.io/panacea/mnova-writer.html> |  
 |[Schema developmenet of solid-states NMR](./schema.md)|<https://chemedata.github.io/panacea/schema.html>|  
-|[Peak lists](./peaklist.md) |<https://chemedata.github.io/panacea/pealist.html> |  
+|[Peak lists](./peaklist.md) |<https://chemedata.github.io/panacea/peaklist.html> |  
 |[CCSD files](./ccsd.md) |<https://chemedata.github.io/panacea/ccsd.html> |  
 
-**Important note**: The links of the table are stable. Even if future work involve changes, the links of this list point to locations that are fixed while the target pages will be updated as needed.
+**Important note**: The links of the table are stable. Even if future work involves changes, the links of this list will point to locations that are fixed while the target pages will be updated as needed. In this manner the above links can be used in technical reports.
 
 # Posters and presentations
 
-[Euromar 2025](./doc/Panacea2025posterNoBird.pdf)
-[Euromar 2024](./doc/JeanneratPosterEuromarPanaceaJune2024.pdf)
-[Euromar 2023](Link-to-poster1)
-[Florence poster](Link-to-posterFlorence)
-[Florence presentation](Link-to-posterFlorence)
+- [Euromar 2025](./doc/Panacea2025posterNoBird.pdf)
+- [Euromar 2024](./doc/JeanneratPosterEuromarPanaceaJune2024.pdf)
+- [Euromar 2023](Link-to-poster1)
+- [Florence poster](Link-to-posterFlorence)
+-  [Florence presentation](Link-to-posterFlorence)
 
 # Papers
 
