@@ -15,6 +15,7 @@ serialization.save("c:/santonin_molecule.json", "JSON Molecule (*.json)") // for
 serialization.save("c:/santonin_spectrum.json", "JSON NMR (*.json)") // for the spectrum
 </code></pre>
 
-Related page
+## Related page
 
-Demonstration of [using Mnova json files](./mnova-reader.md).
+[Using Mnova json files](./mnova-reader.md).
+[Generating json files](./mnova-writer.md).
