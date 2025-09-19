@@ -5,8 +5,8 @@ We shall soon introduced a CHEMeDATA peaklist object to faciliate their interopr
 
 The peaklist object will be an intermediate between:
 
-- lists of NMR transitions (from, say, quantum mecanic calculations) and NMR spectra objects.
-- peaklists of diverse origin (Mnova, Simpson, *etc.*)
+- Lists of NMR transitions (from, say, quantum mecanic calculations) and NMR spectra objects.
+- Peak lists of diverse origins (Mnova, Simpson, *etc.*)
 
 See [Mnova reader](https://github.com/CHEMeDATA/MnovaJson-reader).
 See **main pealist page**.
