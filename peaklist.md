@@ -9,6 +9,6 @@ The peaklist object will be an intermediate between:
 - Peak lists of diverse origins (Mnova, Simpson, *etc.*)
 
 See [Mnova reader](https://github.com/CHEMeDATA/MnovaJson-reader).
-See **main pealist page**.
+See **main peak list page**.
 
 ![alt text](./images/peakList.png)
