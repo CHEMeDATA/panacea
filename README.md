@@ -8,7 +8,7 @@ We attended [NMR conferences and PANACEA meetings](./conferences.md) to set the 
 - [Creation of CHEMeDATA spectra, peaklist, assignement](./mnova-reader.md) from Mnova json files.
 - Improving the [CHEMeDATA](https://chemedata.github.io/) platform to manage the new features for solid-state NMR.
 - Creating CHEMeDATA spectra from [solid-states NMR CSA](nmr-csa.md) (chemical shift anisotropy) tensors.
-- Creating CHEMeDATA [peak peak lists](./pealist.md) .
+- Creating CHEMeDATA [peak peak lists](./peaklist.md) .
 - Creating Mnova files from [CCCCSSSDDD FILES SPECTREA]() .
 
 # List of deliveries
@@ -28,13 +28,13 @@ We attended [NMR conferences and PANACEA meetings](./conferences.md) to set the 
 
 - [Euromar 2025](./doc/Panacea2025posterNoBird.pdf)
 - [Euromar 2024](./doc/JeanneratPosterEuromarPanaceaJune2024.pdf)
-- [Euromar 2023](Link-to-poster1)
-- [Florence poster](Link-to-posterFlorence)
--  [Florence presentation](Link-to-posterFlorence)
+- Euromar 2023
+- Florence poster
+- Florence presentation
 
 # Papers
 
-[CHEMeDATA](Link-to-paper) main paper.
+- Main CHEMeDATA paper (a link will be included after publication).
 
 # Acknowledgements
 
