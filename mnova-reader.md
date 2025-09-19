@@ -1,6 +1,6 @@
 # Mnova json reader
 
-We coded the extraction of spectra, assignement, peak list, etc. from Mnova json files. 
+We coded the extraction of spectra, assignment, peak list, *etc.* from Mnova json files. 
 
 |Mnova json reader|Code|
 |---|---|

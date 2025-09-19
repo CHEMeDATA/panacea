@@ -1,4 +1,4 @@
-# Mestrelab .json 
+# Mestrelab's Mnova json format 
 
 Starting from the version 14.1 of Mnova, spectra, peak-lists and signal assignment can be **exported** and **imported** in the json format.
 
@@ -17,5 +17,7 @@ serialization.save("c:/santonin_spectrum.json", "JSON NMR (*.json)") // for the 
 
 ## Related page
 
-[Using Mnova json files](./mnova-reader.md).
-[Generating json files](./mnova-writer.md).
+- [Using Mnova json files](./mnova-reader.md).
+- [Generating json files](./mnova-writer.md).
+- Main [CHEMeDATA mnova page](https://chemedata.github.io/MnovaJson-reader/) and [repository](https://github.com/CHEMeDATA/MnovaJson-reader).
+
