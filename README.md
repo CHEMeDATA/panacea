@@ -9,7 +9,7 @@ We attended [NMR conferences and PANACEA meetings](./conferences.md) to set the 
 - Improving the [CHEMeDATA](https://chemedata.github.io/) platform to manage the new features for solid-state NMR.
 - Creating CHEMeDATA spectra from [solid-states NMR CSA](nmr-csa.md) (chemical shift anisotropy) tensors.
 - Creating CHEMeDATA [peak peak lists](./peaklist.md) .
-- Creating Mnova files from [CCCCSSSDDD FILES SPECTREA]() .
+- Creating Mnova files from [ccsd files](./ccsd.md) .
 
 # List of deliveries
 

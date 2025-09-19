@@ -1,1 +1,1 @@
-We worked on CCSD data.
+The interconversion of ccsd files into CHEMeDATA objects (peak list, spectra, *etc.*) will be coded if resources are provided.
